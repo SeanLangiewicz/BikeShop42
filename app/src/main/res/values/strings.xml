@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BikeShop42</string>
+    <string name="welcome_to_bicycle_shop_42">Welcome to Bicycle Shop 42</string>
+    <string name="enter">Enter</string>
+    <string name="myproducts">My Products</string>
+    <string name="part_name">Part Name</string>
+    <string name="part_price">Part Date</string>
+    <string name="save">Save</string>
+    <string name="date">date</string>
+    <string name="channel_name">channelname</string>
+    <string name="channel_description">channel description</string>
+</resources>
